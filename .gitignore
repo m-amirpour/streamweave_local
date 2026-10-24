@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Large datasets / outputs
+data/
+compressed_datasets/
+StreamWeave_Local_Results/
+results/
+
+# Logs & OS
+*.log
+run.log
+.DS_Store
